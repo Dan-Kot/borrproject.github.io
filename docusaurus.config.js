@@ -30,7 +30,7 @@ const config = {
   organizationName: 'BorrProject', // Usually your GitHub org/user name.
   projectName: 'borrproject.github.io', // Usually your repo name.
 
-  onBrokenLinks: 'warn',
+  onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
   // Even if you don't use internationalization, you can use this field to set
@@ -179,6 +179,7 @@ const config = {
             ],
           },
           {to: '/getting-help', label: 'Getting Help'},
+          {to: '/blog', label: 'Blog'},
           {
             href: 'https://github.com/BorrProject/',
             position: 'right',
