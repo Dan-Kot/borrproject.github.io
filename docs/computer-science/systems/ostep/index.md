@@ -1,4 +1,8 @@
-# Operating Systems: Three Easy Pieces
+---
+sidebar_position: 3
+---
+
+# Operating Systems
 
 Credit goes to [palladian](https://github.com/palladian1)
 ## Introduction
