@@ -1,3 +1,7 @@
+---
+sidebar_position: 2
+---
+
 # Introduction to CS
 
 This course will introduce you to the world of computer science and programming, giving you a flavor of the material to come. If you finish the course wanting more, Computer Science is likely for you!
@@ -8,7 +12,7 @@ This course has been developed by MIT and is available on [MIT's OCW](https://oc
 
 **Course Link:** [https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/pages/material-by-lecture/](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/pages/material-by-lecture/)
 
-The course has been designed to accommodate people completely new to programming. However, if you find the course difficult to follow, you can try doing one of the [Intro to Programming courses](../intro-programming) and then return to this course.
+The course has been designed to accommodate people completely new to programming. However, if you find the course difficult to follow, you can try doing one of the [Intro to Programming courses](./intro-programming) and then return to this course.
 
 ## Instructions
 
