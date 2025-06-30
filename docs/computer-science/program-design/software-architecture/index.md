@@ -3,7 +3,7 @@ sidebar_position: 5
 ---
 
 # Software Architecture
-8-20 hrs total
+8-20 hrs
 
 The following is quoted from the course website:
 
