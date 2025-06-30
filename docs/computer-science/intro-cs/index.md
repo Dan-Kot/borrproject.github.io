@@ -1,8 +1,8 @@
 ---
-sidebar_position: 1
+sidebar_position: 3
 ---
 
-# Introduction to CS
+# Intro CS
 
 This course will introduce you to the world of computer science and programming, giving you a flavor of the material to come. If you finish the course wanting more, Computer Science is likely for you!
 

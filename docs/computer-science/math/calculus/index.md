@@ -14,6 +14,8 @@ This alternative course contains excellent problem sets that many students use t
 - [Single Variable Calculus](https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/)
 
 Extra resources:
-- [Essence of Calculus](https://youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
-- [OpenStax Calculus Textbook Vol. 1](https://openstax.org/details/books/calculus-volume-1), [Vol. 2](https://openstax.org/details/books/calculus-volume-2)
+- [3Blue1Brown: Essence of Calculus](https://youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
+- [OpenStax: Calculus Textbook Vol. 1](https://openstax.org/details/books/calculus-volume-1), [Vol. 2](https://openstax.org/details/books/calculus-volume-2)
 - [The College Prep School: Calculus 1](https://youtu.be/playlist?list=PLm2VEQtiYjhrZz-k1HnnOe0C8TS46WbXm)
+- [Khan Academy: Calculus BC](https://www.khanacademy.org/math/ap-calculus-bc)
+- [Professor Leonard: Calculus 1](https://youtu.be/playlist?list=PLF797E961509B4EB5), [Calculus 2](https://youtu.be/playlist?list=PLDesaqWTN6EQ2J4vgsN1HyBeRADEh4Cw-)

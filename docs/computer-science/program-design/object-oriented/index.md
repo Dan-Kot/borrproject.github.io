@@ -2,6 +2,6 @@
 sidebar_position: 4
 ---
 
-# Programming Languages
+# Object-Oriented Design
 
 TBD

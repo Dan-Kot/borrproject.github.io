@@ -15,4 +15,4 @@ Here are a few courses that some may find helpful to get the right mindset neces
 - [Mindshift](https://www.coursera.org/learn/mindshift), 9 hrs
 
 
-Once you're ready, feel free to start the [Programming](../programming/index.md) track to get a feel for Computer Science and Programming. Afterwards, you can do any of the other tracks any time. Some students work on the [Math](../math/index.md) track alongside the Programming track, just be sure to complete the entire Programming track before the [Data Structures & Algorithms](../math/dsa/index.md) course.
+Once you're ready, feel free to start the [Intro Computer Science](../intro-cs/index.md) track to get an idea of what CS is all about. Afterwards, complete the [Program Design](../program-design/index.md) and [Math](../math/index.md) track in any order. Once both of those are done, you can do any of the other tracks any time.

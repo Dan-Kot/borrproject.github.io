@@ -1,8 +1,8 @@
 ---
-sidebar_position: 3
+sidebar_position: 7
 ---
 
-# Data Structures & Algorithms
+# Theory
 64-128 hrs
 
 Covers everything typically found in a Data Structures & Algorithms course.
