@@ -3,6 +3,7 @@ sidebar_position: 4
 ---
 
 # Computer Networking
+32-96 hrs
 - [Computer Networking: A Top Down Approach](https://gaia.cs.umass.edu/kurose_ross/online_lectures.htm)
 - [Wireshark Labs](http://gaia.cs.umass.edu/kurose_ross/wireshark.php)
 
