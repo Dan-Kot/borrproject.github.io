@@ -3,7 +3,7 @@ sidebar_position: 3
 ---
 
 # Operating Systems
-
+80-200+ hrs,
 Credit goes to [palladian](https://github.com/palladian1)
 ## Introduction
 
