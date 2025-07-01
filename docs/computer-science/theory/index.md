@@ -10,6 +10,3 @@ Covers everything typically found in a Data Structures & Algorithms course.
 - [Algorithms 2](https://www.coursera.org/learn/algorithms-graphs-data-structures), 16-32 hrs
 - [Algorithms 3](https://www.coursera.org/learn/algorithms-greedy), 16-32 hrs
 - [Algorithms 4](https://www.coursera.org/learn/algorithms-npcomplete), 16-32 hrs
-
-Extra resources:
-- contribute
