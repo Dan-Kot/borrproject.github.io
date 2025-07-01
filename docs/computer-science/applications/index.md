@@ -3,8 +3,7 @@ sidebar_position: 9
 ---
 
 # Applications
-
-TBD
+279-291 hrs
 
 import DocCardList from '@theme/DocCardList';
 
