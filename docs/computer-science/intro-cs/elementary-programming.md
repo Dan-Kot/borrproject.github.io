@@ -1,4 +1,8 @@
-# Introduction to Programming
+---
+sidebar_position: 1
+---
+
+# Elementary Programming
 
 If you find the [Intro CS course](../intro-cs) difficult to follow, start here. These courses are self-paced, allowing you to adjust the number of hours you spend per week to meet your needs.
 
