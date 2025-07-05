@@ -3,7 +3,7 @@ sidebar_position: 4
 ---
 
 # Program Design
-325-500 hrs
+*Timeline: 325 - 500 hours*
 
 import DocCardList from '@theme/DocCardList';
 

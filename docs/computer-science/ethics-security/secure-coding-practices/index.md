@@ -3,7 +3,7 @@ sidebar_position: 3
 ---
 
 # Secure Coding Practices
-52 hrs
+*Timeline: 52 hours*
 
 Through these courses, you will cover the principles of secure coding, concepts of threat modeling, cryptography, and exploit vulnerabilities in C/C++ or Java languages, all of which will prepare you to think like a hacker and protect your organizations information. The courses provide ample practice activities including exploiting WebGoat, an OWASP project designed to teach penetration testing.
 

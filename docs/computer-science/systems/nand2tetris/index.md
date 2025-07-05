@@ -3,7 +3,7 @@ sidebar_position: 2
 ---
 
 # Nand2Tetris
-114-186 hrs
+*Timeline: 114 - 186 hours*
 
 - [Nand2Tetris Part 1: Hardware](https://www.coursera.org/learn/build-a-computer), 42-78 hrs
 

@@ -3,7 +3,7 @@ sidebar_position: 2
 ---
 
 # Class-Based Program Design
-104-130 hrs
+*Timeline: 104 - 130 hours*
 
 This course studies the class-based program design and the design of abstractions that support the design of reusable software and libraries. It covers the principles of object oriented program design, the basic rules of program evaluation, and examines the relationship between algorithms and data structures, as well as basic techniques for analyzing algorithm complexity. The recommended background is [Systematic Program Design](../spd).
 - https://course.ccs.neu.edu/cs2510sp22/index.html

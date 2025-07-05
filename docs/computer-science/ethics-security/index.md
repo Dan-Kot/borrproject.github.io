@@ -3,7 +3,7 @@ sidebar_position: 8
 ---
 
 # Ethics & Security
-167-183 hrs
+*Timeline: 167 - 183 hours*
 
 import DocCardList from '@theme/DocCardList';
 

@@ -3,7 +3,7 @@ sidebar_position: 9
 ---
 
 # Applications
-279-291 hrs
+*Timeline: 279 - 291 hours*
 
 import DocCardList from '@theme/DocCardList';
 

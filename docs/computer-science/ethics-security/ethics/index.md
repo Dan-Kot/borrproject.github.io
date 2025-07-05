@@ -3,7 +3,7 @@ sidebar_position: 1
 ---
 
 # Ethics
-35 hrs
+*Timeline: 35 hours*
 
 This course provides an introduction to ethics in engineering and technology.
 - [Ethics, Technology & Engineering](https://www.coursera.org/learn/ethics-technology-engineering), 18 hrs

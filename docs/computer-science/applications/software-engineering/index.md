@@ -3,7 +3,7 @@ sidebar_position: 4
 ---
 
 # Software Engineering
-48-60 hrs
+*Timeline: 48 - 60 hours*
 
 This course introduces how teams design, build, and test multi-version software systems.
 

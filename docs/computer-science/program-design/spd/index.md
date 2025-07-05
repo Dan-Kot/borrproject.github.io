@@ -3,7 +3,7 @@ sidebar_position: 1
 ---
 
 # Systematic Program Design
-104-130 hrs
+*Timeline: 104 - 130 hours*
 
 This course has been developed by UBC and is available from Edx. We recommend you to do it from the archived version on Edx.
 

@@ -3,7 +3,7 @@ sidebar_position: 3
 ---
 
 # Programming Languages
-44-88 hrs
+*Timeline: 44 - 88 hours*
 
 The following is quoted from the course website:
 

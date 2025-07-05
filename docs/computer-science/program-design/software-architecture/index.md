@@ -3,7 +3,7 @@ sidebar_position: 5
 ---
 
 # Software Architecture
-8-20 hrs
+*Timeline: 8 - 20 hours*
 
 The following is quoted from the course website:
 

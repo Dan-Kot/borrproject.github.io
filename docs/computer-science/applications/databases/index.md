@@ -3,7 +3,7 @@ sidebar_position: 1
 ---
 
 # Databases
-60 hrs
+*Timeline: 60 hours*
 
 These courses will give the student a basic understanding of databases, specifically with SQL:
 - [Relational Databases & SQL](https://www.edx.org/learn/relational-databases/stanford-university-databases-relational-databases-and-sql), 20 hrs

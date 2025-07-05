@@ -3,10 +3,10 @@ sidebar_position: 2
 ---
 
 # Discrete Math
-65 hrs - 1 year
+Timeline: 65 hours - 1 year
 
 Covers everything typically found in a Discrete Math course.
-- [Mathematics for Computer Science 2019](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about)
+- [Mathematics for Computer Science 2019](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about), 65 hrs
 - Alternative: [Mathematics for Computer Science 2010](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/)
 
 Many students choose to spend much more time on this subject by going through a textbook. Although this will take substantially longer and comes at a price, it is easier for most people than the MIT course & goes into greater detail, often saving time in later courses such as [Data Structures & Algorithms](../dsa/index.md).

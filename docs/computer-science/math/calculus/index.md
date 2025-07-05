@@ -3,7 +3,7 @@ sidebar_position: 1
 ---
 
 # Calculus
-173-320 hrs
+*Timeline: 173 - 320 hours*
 
 Created by MIT, these three courses cover everything typically found in Calculus 1 & 2, which happens to be the scope of a Computer Science degree.
 - [Calculus 1A: Differentiation](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.1x+2T2019/about), 78-130 hrs

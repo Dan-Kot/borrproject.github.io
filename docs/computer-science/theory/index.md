@@ -3,7 +3,7 @@ sidebar_position: 7
 ---
 
 # Theory
-64-128 hrs
+*Timeline: 64 - 128 hours*
 
 Covers everything typically found on the theoretical side of a Data Structures & Algorithms course. The rest of DSA was covered throughout [Program Design](../program-design/).
 - [Algorithms 1](https://www.coursera.org/learn/algorithms-divide-conquer), 16-32 hrs

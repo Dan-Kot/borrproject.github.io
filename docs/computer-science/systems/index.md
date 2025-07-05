@@ -3,7 +3,7 @@ sidebar_position: 6
 ---
 
 # Systems
-250-506 hrs
+*Timeline: 250 - 506 hours*
 
 import DocCardList from '@theme/DocCardList';
 
