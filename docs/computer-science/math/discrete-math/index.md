@@ -9,7 +9,7 @@ Covers everything typically found in a Discrete Math course.
 - [Mathematics for Computer Science 2019](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about), 65 hrs
 - Alternative: [Mathematics for Computer Science 2010](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/)
 
-Many students choose to spend much more time on this subject by going through a textbook. Although this will take substantially longer and comes at a price, it is easier for most people than the MIT course & goes into greater detail, often saving time in later courses such as [Data Structures & Algorithms](../dsa/index.md).
+Many students choose to spend much more time on this subject by going through a textbook. Although this will take substantially longer and comes at a price, it is easier for most people than the MIT course & goes into greater detail, often saving time in later courses such as [Theory](/computer-science/theory/index.md).
 - [Discrete Mathematics with Applications](https://www.amazon.com/Discrete-Mathematics-Applications-Susanna-Epp/dp/1337694193/), 1 year
 
 If you need help writing mathematical proofs but don't want to spend the money and time on Epps, check out the freely available [Book of Proof](https://richardhammack.github.io/BookOfProof/).
