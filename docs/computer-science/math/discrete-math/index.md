@@ -9,7 +9,7 @@ Covers everything typically found in a Discrete Math course.
 - [Mathematics for Computer Science 2019](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about), 65 hrs
 - Alternative: [Mathematics for Computer Science 2010](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/)
 
-Many students choose to go with a paid textbook for easier introduction to this subject:
+Many students choose to go with a paid textbook for an easier introduction to this subject:
 - [Discrete Mathematics with Applications](https://www.amazon.com/Discrete-Mathematics-Applications-Susanna-Epp/dp/1337694193/), 1 year
 
 This book covers some topics which are covered again in [theory courses](/computer-science/theory/index.md). The MIT course and the corresponding book covers more topics, which are not covered by this book.
