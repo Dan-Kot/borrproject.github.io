@@ -31,7 +31,7 @@ just remember that you can't purchase success!
 
 **[Getting help](../getting-help.md)** (Details about our FAQ and chatroom)
 
-# Community
+## Community
 
 - We have a Discord server! [![Discord](https://img.shields.io/discord/1385616874200371350.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/uR2QS36pdH) This should be your first stop to talk with other students from The Borr Project. Why don't you introduce yourself right now? [Join The Borr Project Discord](https://discord.gg/uR2QS36pdH)
 - You can also interact through GitHub issues. If there is a problem with a course, or a change needs to be made to the curriculum, this is the place to start the conversation. Read more [here](../contributing.md).
