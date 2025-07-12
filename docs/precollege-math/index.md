@@ -4,20 +4,9 @@ sidebar_position: 1
 
 # Pre-College Math Overview
 
-# Contents
-
-- [Summary](#summary)
-- [Community](#community)
-- [Curriculum](#curriculum)
-- [Code of conduct](#code-of-conduct)
-- [Team](#team)
-
-# Summary
-
-The OSSU curriculum is a **complete education in pre-college math** using online materials.
-It's for those who want a proper, *well-rounded* grounding in fundamental concepts
-and for those who have the discipline, will, and (most importantly!) good habits to obtain this education largely on their own,
-but with support from a worldwide community of fellow learners.
+The Borr Project offers a **complete education in pre-college math** using online materials.
+It's for those who want a proper, *well-rounded* foundation in the fundamental mathematical concepts crucial for success in STEM.
+It is also for those who have the discipline, will, and (most importantly!) good habits to obtain this education largely on their own, but with support from a worldwide community of fellow learners.
 
 The courses are specifically chosen to meet the following criteria.
 
@@ -25,54 +14,76 @@ The courses are specifically chosen to meet the following criteria.
 - Be open for enrollment
 - Run regularly (ideally in self-paced format, otherwise running multiple times per year)
 - Be of generally high quality in teaching materials and pedagogical principles
-- Match the [curricular standards](CURRICULAR_GUIDELINES.md)
+- Match the [Curricular Guidelines](CURRICULAR_GUIDELINES.md), which roughly corresponds to the [Common Core](https://www.thecorestandards.org/Math/)
 
-When there are courses or books that don’t fit into the curriculum but are otherwise of high quality, they belong in [extras/courses](/extras/courses.md) or [extras/readings](/extras/readings.md).
+When there are courses or books that don’t fit into the curriculum but are otherwise of high quality, they belong in [extras/courses](/extras/courses.md) or [extras/readings](/extras/readings.md). Of course, some may be mentioned on the course page as a supplemental resource.
 
-**Cost**. All or nearly all course material is available for free. However, some extra courses may charge money for assignments/tests/projects to be graded.
-Note that both [Coursera](https://www.coursera.support/s/article/209819033-Apply-for-Financial-Aid-or-a-Scholarship?language=en_US) and [edX](https://courses.edx.org/financial-assistance/) offer financial aid.
+**Cost**. All or nearly all course material is available for free. Some supplemental resources may come at a cost, but the core curriculum remains free.
 
 Decide how much or how little to spend based on your own time and budget;
 just remember that you can't purchase success!
 
 **Process**. Students can work through the curriculum alone or in groups. Each course has a prerequisite of the previous course, so they should be done in a linear order top to bottom.
 
-**Content policy**. If you plan on showing off some of your coursework publicly, you must share only files that you are allowed to.
-*Respect the code of conduct* that you signed in the beginning of each course!
+**Content policy**. If you plan on showing off some of your coursework publicly, that is fine. Just keep in mind that others may not want to see the solution right away, so use spoiler tags.
 
-**[How to contribute](CONTRIBUTING.md)**
+**[How to contribute](../contributing.md)**
 
-**[Getting help](HELP.md)** (Details about our FAQ and chatroom)
+**[Getting help](../getting-help.md)** (Details about our FAQ and chatroom)
 
 # Community
 
-- We have a Discord server! [![Discord](https://img.shields.io/discord/744385009028431943.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/wuytwK5s9h) This should be your first stop to talk with other OSSU students. Why don't you introduce yourself right now? [Join the OSSU Discord](https://discord.gg/wuytwK5s9h)
-- You can also interact through GitHub issues. If there is a problem with a course, or a change needs to be made to the curriculum, this is the place to start the conversation. Read more [here](CONTRIBUTING.md).
-- Add **Open Source Society University** to your [Linkedin](https://www.linkedin.com/school/11272443/) profile!
+- We have a Discord server! [![Discord](https://img.shields.io/discord/1385616874200371350.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/uR2QS36pdH) This should be your first stop to talk with other students from The Borr Project. Why don't you introduce yourself right now? [Join The Borr Project Discord](https://discord.gg/uR2QS36pdH)
+- You can also interact through GitHub issues. If there is a problem with a course, or a change needs to be made to the curriculum, this is the place to start the conversation. Read more [here](../contributing.md).
 
 # Curriculum
 
-Many OSSU students choose to review math topics that they have not studied recently.
-OSSU recommends using [The College Prep School](https://www.youtube.com/@thecollegeprepschool4486/playlists) for such a review.
-To determine where you should start, we recommend scanning through the Final Tests for anything you may be uncomfortable with. After taking an assessment, you should have a clear idea of what topics to study and where you should start with the resources below.
+Most of The Borr Project's Pre-College Math Curriculum is based on the excellent problem sets created by Matthew Dellinger at [The College Prep School](https://www.youtube.com/@thecollegeprepschool4486/playlists) (TCPS), used by permission. While some prefer to learn from other resources, we still recommend completing the problem sets from TCPS.
 
-Courses | Duration | Effort | Prerequisites | Assessments
-:-- | :--: | :--: | :--: | :--:
-[Arithmetic](/coursepages/arithmetic/README.md) | 20 Weeks | 8 hours/week | None | [Final Test](https://www.youtube.com/watch?v=Af-MqCJGZww&list=PLm2VEQtiYjhpTTgxTVCXVcpYWDUqiewiQ&index=39&pp=iAQB0gcJCTgDd0p55Nqk)
-[Pre-Algebra](/coursepages/pre-algebra/README.md) | 14 Weeks | 6 hours/week | Arithmetic | [Final Test](https://www.youtube.com/watch?v=tz0VX_QfFxI&list=PLm2VEQtiYjhoZuRqvrC_dxSrwr0uexm4l&index=27&pp=iAQB)
-[Algebra 1](/coursepages/algebra-1/README.md) | 19 Weeks | 8 hours/week | Pre-Algebra | [Final Test Part 1](https://www.youtube.com/watch?v=-RA5vtfH-qY&list=PLm2VEQtiYjhpXDka_1Q6m0x1rL5GRPMX8&index=35&t=369s&pp=iAQB0gcJCTgDd0p55Nqk), [Part 2](https://www.youtube.com/watch?v=lx0sDd0efSo&list=PLm2VEQtiYjhpXDka_1Q6m0x1rL5GRPMX8&index=37&pp=iAQB)
-[Geometry](/coursepages/geometry/README.md) | 25 Weeks | 8 hours/week | Algebra 1 | [Final Test Part 1](https://www.youtube.com/watch?v=84e6AVgYYNk&list=PLm2VEQtiYjhoXTFAF8nuN5YrAl2Muh4Nw&index=47&t=2s&pp=iAQB), [Part 2](https://www.youtube.com/watch?v=3Aaahyp1Lh8&list=PLm2VEQtiYjhoXTFAF8nuN5YrAl2Muh4Nw&index=49&pp=iAQB0gcJCTgDd0p55Nqk)
-[Algebra 2](/coursepages/algebra-2/README.md) | 28 Weeks | 8 hours/week | Algebra 1, Geometry | [Final Test](https://www.youtube.com/watch?v=IQYKm-0KaOE&list=PLm2VEQtiYjhoEvVOJzs8jrgFc1zXQVMiQ&index=55&pp=iAQB)
-[Trigonometry](/coursepages/trigonometry/README.md) | 18 Weeks | 8 hours/week | Algebra 2, Geometry | [Final Test](https://www.youtube.com/watch?v=2vNzGXrgbdQ&list=PLm2VEQtiYjhofP-A_QvAoTVwWjXwU7bCc&index=35&pp=iAQB)
-[Precalculus](/coursepages/precalculus/README.md) | 26 Weeks | 9 hours/week | Trigonometry | [Final Test Part 1](https://www.youtube.com/watch?v=OY63IBm5RpI&list=PLm2VEQtiYjhrrznuk1nQu9qJBniirGXl_&index=45&pp=iAQB0gcJCTgDd0p55Nqk), [Part 2](https://www.youtube.com/watch?v=aY7qINRAOvU&list=PLm2VEQtiYjhrrznuk1nQu9qJBniirGXl_&index=47&pp=iAQB)
+Before you begin your Pre-College Math studies, we recommend taking some tests to determine where you should start. Likely, you have already completed some math education, so it would be better to start ahead.
+- [Assessment Tests](assessment.md)
 
+## Arithmetic
+*Timeline: 156 hours (videos: 52 hours, homework: ~104 hours)*
 
-When going through the playlists, it's important to pause the video and complete most of the problems yourself. You don't have to complete all the problems since a few are used to demonstrate the solving technique, but try to complete as many as possible.
+If you have no math experience, we recommend starting here. You will become proficient in basic arithmetic which is required for higher level math.
+- [Arithmetic](02-arithmetic/index.md)
 
-Don't feel restricted to the course listed above. If a textbook better suits your learning style, check out extras/readings.
+## Pre-Algebra
+*Timeline: 84 hours (videos: 28 hours, homework: ~56 hours)*
 
-1. Googling and/or searching [YouTube](https://www.youtube.com/) for another POV on the topic or more practice problems, working through the examples with them. [Khan Academy](https://www.youtube.com/@khanacademy), [The Organic Chemistry Tutor](https://www.youtube.com/@TheOrganicChemistryTutor), & [Professor Leonard](https://www.youtube.com/@ProfessorLeonard) are great resources for this.
-2. Asking for help in #prerequisite-math on [Discord](https://discord.gg/mS4GnBCdZk).
+This could also be called an introduction to algebra since it begins the study of variables, negative numbers, and multi-step equations, among other things.
+- [Pre-Algebra](03-pre-algebra/index.md)
+
+## Algebra 1
+*Timeline: 150 hours (videos: 50 hours, homework: ~100 hours)*
+
+This class teaches proficency in factoring, solving, & manipulating algebraic equations which are topics many students have trouble with in later courses.
+- [Algebra 1](04-algebra-1/index.md)
+
+## Geometry
+*Timeline: 189 hours (videos: 63 hours, homework: ~126 hours)*
+
+Here, the student will be introduced to proofs for the first time as well as formulas, theorems, & basic trigonometry, all of which are necessary for higher education.
+- [Geometry](05-geometry/index.md)
+
+## Algebra 2
+*Timeline: 156 hours (videos: 52 hours, homework: ~104 hours)*
+
+This course solidifies what was taught in Algebra 1, along with introducing the student to many important concepts such as roots, exponents, logarithms, transformations, functions, and more.
+- [Algebra 2](06-algebra-2/index.md)
+
+## Trigonometry
+*Timeline: 135 hours (videos: 45 hours, homework: ~90 hours)*
+
+A rigorous study of trigonometric equations, identities, transformations, laws, and more. These will come up frequently enough in Calculus that students who skip Trigonometry studies often struggle down the line.
+- [Trigonometry](07-trigonometry/index.md)
+
+## Precalculus
+*Timeline: 219 hours (videos: 73 hours, homework: ~146 hours)*
+
+As the capstone of the Pre-College Math Curriculum, this course finalizes the understanding of Algebra & Trigonometry a student needs to be successful in Calculus. Notable topics include conics, sequences/series, probability, & basic linear algebra.
+- [Precalculus](08-precalculus/index.md)
 
 ## Congratulations
 
