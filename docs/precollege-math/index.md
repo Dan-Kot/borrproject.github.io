@@ -14,9 +14,9 @@ The courses are specifically chosen to meet the following criteria.
 - Be open for enrollment
 - Run regularly (ideally in self-paced format, otherwise running multiple times per year)
 - Be of generally high quality in teaching materials and pedagogical principles
-- Match the [Curricular Guidelines](CURRICULAR_GUIDELINES.md), which roughly corresponds to the [Common Core](https://www.thecorestandards.org/Math/)
+- Match the [Curricular Guidelines](curricular_guidelines.md), which roughly corresponds to the [Common Core](https://www.thecorestandards.org/Math/)
 
-When there are courses or books that don’t fit into the curriculum but are otherwise of high quality, they belong in [extras/courses](/extras/courses.md) or [extras/readings](/extras/readings.md). Of course, some may be mentioned on the course page as a supplemental resource.
+When there are courses or books that don’t fit into the curriculum but are otherwise of high quality, they belong in [extras/courses](extras/courses.md) or [extras/readings](extras/readings.md). Of course, some may be mentioned on the course page as a supplemental resource.
 
 **Cost**. All or nearly all course material is available for free. Some supplemental resources may come at a cost, but the core curriculum remains free.
 
