@@ -4,6 +4,8 @@ sidebar_position: 1
 
 # Pre-College Math Overview
 
+![The Borr Project - Pre-College Math](../computer-science/borrproject.webp)
+
 The Borr Project offers a **complete education in pre-college math** using online materials.
 It's for those who want a proper, *well-rounded* foundation in the fundamental mathematical concepts crucial for success in STEM.
 It is also for those who have the discipline, will, and (most importantly!) good habits to obtain this education largely on their own, but with support from a worldwide community of fellow learners.
