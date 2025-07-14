@@ -10,6 +10,7 @@ For years, the Open-Source Society University (OSSU) Computer Science curriculum
 
 We believe in the power of open education and the strength of a truly collaborative community. That's why we, a group of former OSSU staff members and active community contributors, are excited to announce the **Borr Project**—a fork designed to revitalize and advance the OSSU computer science curriculum, both academically and as a community. 
 
+{/* truncate */}
 
 ## Our Vision for Borr Project
 
