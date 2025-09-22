@@ -21,10 +21,10 @@ Primary topics: digital logic circuits, boolean algebra, computer architecture, 
 - [Hack Chipset](https://drive.google.com/file/d/1IsDnH0t7q_Im491LQ7_5_ajV0CokRbwR/view)
 
 ### Extra Resources:
-- [The Elements Computing Systems: Building a Modern Computer from First Principles](https://www.nand2tetris.org/book)  
+- [The Elements of Computing Systems: Building a Modern Computer from First Principles](https://www.nand2tetris.org/book)  
   The textbook for the course is a great supplement to the video lectures and projects.
 
-## Computer Systems (Reccommended)
+## Computer Systems (Recommended)
 *Timeline: 40-60 hours*
 
 This course acts as a stand-in for CS-354: Intro to Computer Systems taught at the University of Wisconsin-Madison, which acts as an introduction to real-world computer systems. This course is not strictly required for students who wish to do the base approach to OSTEP, however, it is highly recommended, as it gives valuable insight into how to program for real hardware. For the extended approach, this course is **strictly required**.
