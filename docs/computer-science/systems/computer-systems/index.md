@@ -21,7 +21,7 @@ Primary topics: digital logic circuits, boolean algebra, computer architecture, 
 - [Hack Chipset](https://drive.google.com/file/d/1IsDnH0t7q_Im491LQ7_5_ajV0CokRbwR/view)
 
 ### Extra Resources:
-- [The Elemenents of Computing Systems: Building a Modern Computer from First Principles](https://www.nand2tetris.org/book)  
+- [The Elements Computing Systems: Building a Modern Computer from First Principles](https://www.nand2tetris.org/book)  
   The textbook for the course is a great supplement to the video lectures and projects.
 
 ## Computer Systems (Reccommended)
